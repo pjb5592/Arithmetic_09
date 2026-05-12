@@ -5,6 +5,7 @@
 void testAddition() {
   ArithmeticOperations ao;
   assert(ao.addition(4, 2) == 6);
+
   std::cout << "testAddition passed" << std::endl;
 }
 
